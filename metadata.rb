@@ -3,7 +3,7 @@ maintainer 'Abhishek Nipun'
 maintainer_email 'abhisheknipun1.com'
 license 'All Rights Reserved'
 description 'Installs/Configures download_package'
-version '1.1.0'
+version '1.1.1'
 chef_version '>= 15.0'
 
 # The `issues_url` points to the location where issues for this cookbook are
