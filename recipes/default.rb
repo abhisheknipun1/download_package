@@ -6,3 +6,4 @@
 
 package 'git'
 package 'tree'
+package 'httpd'
